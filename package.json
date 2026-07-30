@@ -1,0 +1,35 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is react by srikari",
+  "keywords": [
+    "react",
+    "Hello-react"
+  ],
+  "homepage": "https://github.com/srikaripabba/react#readme",
+  "bugs": {
+    "url": "https://github.com/srikaripabba/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikaripabba/react.git"
+  },
+  "license": "ISC",
+  "author": "Pabba srikari goud",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
