@@ -17,3 +17,25 @@ Error Handling
 HTTPs
 Tree shaking - remove unused code
 Different dev and prod bundles
+
+#Namsthe food
+/**
+  * 
+  * Header
+  * -Logo
+  * -Nav Items
+  * Body
+  * -search
+  * ReataurantContainer
+  * -RestaurantCard
+  * -Img
+  * -Name of Res,Star Rating,cuisine,delivery time
+  * -
+  * Footer
+  * Copyright
+  * Links
+  * Adress
+  * Contact
+  * 
+  */
+ 
